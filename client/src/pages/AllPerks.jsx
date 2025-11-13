@@ -29,6 +29,8 @@ export default function AllPerks() {
  * useEffect Hook #2: Auto-search on Input Change
 
 */
+  
+
 
   // Initial Data Loading
   useEffect(() => {
